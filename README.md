@@ -3,10 +3,10 @@ Glass Box OpenCDS
 
 <p align="right"><img
 src="https://github.com/jloughry/Glass_Box_OpenCDS/raw/master/logo.png"
-width="33%" hspace="4" alt="Glass Box OpenCDS logo"/>Those should be
-gears.</p>
+width="33%" hspace="4" alt="Glass Box OpenCDS logo"/><br/><em>Those should
+be gears.</em></p>
 
-The *Glass Box* **OpenCDS** project aims to design and produce a
+The **OpenCDS** project aims to design and produce a
 trustworthy Cross Domain Solution by means of obviously correct
 software running on verifiable hardware.
 
